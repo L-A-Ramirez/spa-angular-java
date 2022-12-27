@@ -1,0 +1,4 @@
+Controller: Punto de acceso
+Service: Logica de negocio
+Repository: Coneccion y logica con la base de datos
+Entities: Modelos
